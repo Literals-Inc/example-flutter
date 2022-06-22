@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Literator",
+        "repositoryURL": "https://github.com/Literals-Inc/Literator/",
+        "state": {
+          "branch": "master",
+          "revision": "981f92aecbf8c3764e653ab84942bae2e0c0166b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
